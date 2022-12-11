@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/imbrunoagc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbrunoagc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbrunoagc&layout=compact&langs_count=7&theme=radical"/>
+  --<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbrunoagc&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## Tecnologias utilizadas no meu dia-dia.
