@@ -27,6 +27,3 @@
 
 ## 
 
-<div>
- ![Snake animation](https://github.com/imbrunoagc/imbrunoagc/blob/output/github-contribution-grid-snake.svg)
-</div>
