@@ -37,11 +37,7 @@
   </a>
 </div>
 
-###
-
-#<br clear="both">
-
-#<img src="https://raw.githubusercontent.com/imbrunoagc/imbrunoagc/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/imbrunoagc/imbrunoagc/blob/output/github-contribution-grid-snake.svg)
+### Watch Snake eating my github contributions
+![snake gif](https://github.com/imbrunoagc/imbrunoagc/blob/output/github-contribution-grid-snake.gif)
 
 ###
